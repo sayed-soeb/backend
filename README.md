@@ -3,9 +3,9 @@
 This is a backend project built with Express.js and MongoDB. It includes user authentication using JSON Web Tokens (JWT) and CRUD operations with pagination functionality.
 
 ## Featues
--User authentication with JWT
--CRUD operations
--Get all items with pagination.
+* User authentication with JWT
+* CRUD operations
+* Get all items with pagination.
 
 ## Project Setup
 
