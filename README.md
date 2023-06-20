@@ -15,11 +15,6 @@ git clone <repository-url>
 # Install dependencies
 npm install
 
-# Configure environment variables
-echo "PORT=<server-port>" >> .env
-echo "MONGO_URI=<mongodb-connection-string>" >> .env
-echo "JWT_SECRET=<jwt-secret-key>" >> .env
-
 # Start the server
 npm start
 
