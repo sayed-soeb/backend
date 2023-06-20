@@ -9,7 +9,6 @@ This is a backend project built with Express.js and MongoDB. It includes user au
 
 ## Project Setup
 
-```shell
 # Clone the repository
 git clone <repository-url>
 
