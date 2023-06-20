@@ -59,3 +59,8 @@ This endpoint updates an existing item. It requires authentication using JWT.
 **DELETE** `/api/items/:id`
 
 This endpoint deletes an item. It requires authentication using JWT.
+
+## Deployment
+
+The project is deployed and can be accessed live at [https://librarybackend-t0pm.onrender.com](https://librarybackend-t0pm.onrender.com).
+
